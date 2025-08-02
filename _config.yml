@@ -22,16 +22,15 @@ title: insanelogs
 email: insane@insanelogs.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Nothing more than logs of Insane
-baseurl: "jekyll-test-blog" # the subpath of your site, e.g. /blog
+baseurl: "jekyll_test_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: insanelogs
-github_username:  xXx-insane-xXx
+github_username: xXx-insane-xXx
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
